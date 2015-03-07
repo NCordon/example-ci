@@ -1,5 +1,5 @@
 # example-ci
-![Travis badge](https://travis-ci.org/fdavidcl/example-ci.svg?branch=master)
+![Travis badge](https://travis-ci.org/NCordon/example-ci.svg)
 
 An example repo in Ruby for continuous integration with Travis CI
 
